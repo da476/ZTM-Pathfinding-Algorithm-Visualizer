@@ -1,3 +1,24 @@
+## Pathfinding Algorithm Visualizer
+
+This project generates a maze, then solves it using one of two different algorithms. From the ZTM Academy course "Master the Pathfinding Algorithms with JavaScript and React". Completed April 27, 2025.
+
+### Tech Stack
+
+- JavaScript
+- Replit
+- React
+- Vite
+
+### How to Use the Visualizer
+
+1. Open in new full screen tab.
+2. Control buttons appear at the top.
+   1. **Refresh Maze** generates a new maze.
+   2. **Breadth-First Search** explores both sides of a fork simulataneously.
+   3. **Depth-First Search** explores one path completely before backtracking to explore another path.
+
+---
+
 ## Running React on Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
