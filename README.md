@@ -12,7 +12,7 @@ This project generates a maze, then solves it using one of two different algorit
 ### How to Use the Visualizer
 
 1. Open in new full screen tab.
-2. Control buttons appear at the top.
+2. Control buttons appear at the top. (May have to zoom out in browser settings.)
    1. **Refresh Maze** generates a new maze.
    2. **Breadth-First Search** explores both sides of a fork simulataneously.
    3. **Depth-First Search** explores one path completely before backtracking to explore another path.
